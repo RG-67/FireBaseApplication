@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_add_course.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_edit_course.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_login.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_main.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_registration.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/activity_registraton.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/bottom_sheet.xml" value="0.3489583333333333" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/layout/course_rlview_item.xml" value="0.34646739130434784" />
+        <entry key="..\:/Android_Studio/FireBaseApplication/app/src/main/res/menu/main_menu.xml" value="0.2863247863247863" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
